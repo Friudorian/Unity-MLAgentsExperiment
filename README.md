@@ -1,13 +1,15 @@
 # Unity-MLAgentsExperiment
-Esame Metodi statistici per l'apprendimento.
-Voto Progetto: 30 e Lode
-A.A. 2018/19
+Exam: Statistical Methods for Machine Learning 
+Final Grade: 30/30 cum laude. (Maximum grade)
+A.Y. 2018/19
 
-Il lavoro si prefissa lo scopo di sperimentare l’utilizzo del (deep) reinforcement learning nello sviluppo di intelligenze
-artificiali per videogiochi, tramite la libreria ml-agents di Unity, nota piattaforma di sviluppo di videogiochi. In particolare tale lavoro si delinea nei seguenti punti:
 
-• Introduzione al deep reinforcement learning ed ai Policy gradient methods. Algoritmo PPO.
+The work aims at experimenting the use of (deep) reinforcement learning in the development of AI for video games, through the Unity ML-agents library. In particular, this work is outlined in the following points:
 
-• Libreria ml-agents di Unity
+• Introduction to deep reinforcement learning and to Policy gradient methods. PPO algorithm.
 
-• Esperimenti
+• Unity ml-agents library
+
+• Experiments: Air Hockey Agent
+
+

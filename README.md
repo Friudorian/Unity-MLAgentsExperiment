@@ -13,3 +13,4 @@ The work aims at experimenting the use of (deep) reinforcement learning in the d
 • Experiments: Air Hockey Agent
 
 
+The project documentation is written in Italian.
